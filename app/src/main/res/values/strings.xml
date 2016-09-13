@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="company">Favr.</string>
+    <string name="name">Sumit Roy</string>
+    <string name="address">B17/108,Kalyani</string>
+    <string name="contact">+917586845206</string>
+    <string name="description">It is a company that has best supply chain for delivery to infinity and beyond.</string>
+    <string name="founder">Founder</string>
+    <string name="describe">Description:-</string>
+</resources>
